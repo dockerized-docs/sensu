@@ -14,4 +14,4 @@ $ docker run -d genadipost/dockerized-docs-sensu
 
 ```
 
-You can test it by visiting http://container-ip:80
+You can test it by visiting http://container-ip:8080
