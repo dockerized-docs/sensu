@@ -10,7 +10,7 @@ Dockerzied Sensu documentation for offline use.
 # How to use this image
 
 ```console
-$ docker run -d genadipost/dockerized-docs-sensu
+$ docker run -d genadipost/sensu
 
 ```
 
